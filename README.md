@@ -1,4 +1,4 @@
-This is a python program written by Osome101. All rights go to Osome101.
+This is a python program written by Osome101. All credit goes to Osome101.
 
 # Installation
 
