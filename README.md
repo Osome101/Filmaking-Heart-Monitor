@@ -7,7 +7,7 @@ Has dependencies:
 	*beep
 
 	Install using 
-	``python pip install pygame numpy pysinewave beep``
+	``pip install pygame numpy pysinewave beep``
 
 I had some errors hile installing the beep, but it still works fine for me.
 
