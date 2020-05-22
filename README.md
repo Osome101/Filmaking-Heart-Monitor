@@ -1,14 +1,14 @@
 This is a python program written by Ohad Mamet
 
 Has dependencies:
-	..* pygame
-	..* numpy
-	..* pysinewave
-	..* beep
+..* pygame
+..* numpy
+..* pysinewave
+..* beep
 
-	Install using:
+Install using:
 
-	pip install pygame numpy pysinewave beep
+pip install pygame numpy pysinewave beep
 
 I had some errors hile installing the beep, but it still works fine for me.
 
