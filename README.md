@@ -1,10 +1,10 @@
 This is a python program written by Ohad Mamet
 
 Has dependencies:
-	*pygame
-	*numpy
-	*pysinewave
-	*beep
+	* pygame
+	* numpy
+	* pysinewave
+	* beep
 
 	Install using:
 
